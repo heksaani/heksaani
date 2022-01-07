@@ -3,7 +3,7 @@
   Other passions include art, poems, [photography](https://www.flickr.com/photos/heidiputkuri/) and nature 
 - Currently studying molecular biosciences and finishing my bachelor degree this Spring 2022
 - I'll continue my studies in the Life Science Informatics master's program in the Autumn 2022 
-- I’m currently learning new things ! 
+
 
 
 <!---
