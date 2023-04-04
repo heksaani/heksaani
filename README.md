@@ -8,7 +8,7 @@ Coding languages:
 > Python -- data analysis, ML, data visualization <br>
 > R -- data visualization, statistics, ML <br>
 > Java -- basics <br>
-> JavaScript (currently learnings)
+> JavaScript (currently learnings) 
 > Bash / Shell -- pipes
 <!---
 heksaani/heksaani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
