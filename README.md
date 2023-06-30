@@ -10,7 +10,7 @@ Coding languages:
 > Java -- basics <br>
 > Bash / Shell -- pipes
 
-Currently learning HTML, JavaScript 
+Currently learning software development...
 
 <!---
 heksaani/heksaani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
