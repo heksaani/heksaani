@@ -8,7 +8,7 @@ Coding languages:
 > Python -- data analysis, ML, data visualization <br>
 > R -- data visualization, statistics, ML <br>
 > Java -- basics <br>
-> Bash / Shell -- pipes
+> Bash / Shell -- 
 
 Currently learning software development...
 
