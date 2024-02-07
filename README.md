@@ -47,6 +47,7 @@ I am a **`person with many interest`** currently working at the intersection of 
 <hr>
 
 <!-- Work / Research Section -->
+<!--
 <details>
   <summary><strong>Computational Research Interests </strong></summary>
   <br>
@@ -56,6 +57,7 @@ I am a **`person with many interest`** currently working at the intersection of 
   - implementing machine learning algorithms to support classification and prediction of clinical outcomes using molecular features
   <br>
 </details>
+-->
 <!--
 <details>
   <summary><strong>Laboratory Research Interests </strong></summary>
