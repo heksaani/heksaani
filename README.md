@@ -1,6 +1,4 @@
 
-### Hi there!
-
 <!-- Introduction/Summary Section -->
 
 <h1 align = center>✨ I'm Heidi ✨</h1>
