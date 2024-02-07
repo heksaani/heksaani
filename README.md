@@ -47,25 +47,4 @@ I am a **`person with many interest`** currently working at the intersection of 
 <hr>
 
 <!-- Work / Research Section -->
-<!--
-<details>
-  <summary><strong>Computational Research Interests </strong></summary>
-  <br>
-  
-  - developing novel bioinformatics tools to investigate high-throughput genomics data to understand the mechanisms of diseases, with a particular interest in cancer
-  - applying computational methods to study biological processes such as protein-protein interaction and protein-ligand binding to design the next generation of cell permeable and orally bioavailable macrocyclic drugs.
-  - implementing machine learning algorithms to support classification and prediction of clinical outcomes using molecular features
-  <br>
-</details>
--->
-<!--
-<details>
-  <summary><strong>Laboratory Research Interests </strong></summary>
-  <br>
-  -->
-  <!--
-  - application of genome engineering techniques and high-throughput genetic screening methods to identify biological functions of unknown genes and novel drug targets in the context of ImmunoTherapy. 
-  - assay development and tool generation to dissect immune surveillance mechanisms and T cell signaling, and validate new immunotherapy drugs 
-  - ...
-  <br>
-</details> -->
+
