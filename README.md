@@ -23,7 +23,7 @@
 - working part time in Folkhälsan [Eye Genetics](https://www.folkhalsan.fi/en/knowledge/research/genetics/group-turunen/) research group as bioinformatician
 - I have a bachelor in Science (molecular biology) 🧬 with minor in computer science 💻 and mathematics 🧮
 - 🔭 I’m currently learning more about **software development** and **machine learning** 
-- 🤝 I’m looking for tech related jobs which combines computers and data 
+- 🤝 I’m looking for tech related jobs related to data or software development 
 - 📫  You can connect with me directly at one of the platforms listed above ⬆️
 
 
@@ -33,16 +33,14 @@
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg"></code>
+  <code><img width="7.5%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/ruby.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/openstack/openstack-ar21.svg"></code>
-  </p>
- <!--<code><img width="10%" src=""></code>
-  <code><img width="10%" src=""></code>
-  <code><img width="10%" src=""></code>
-</p> -->
+  <br />
+  <code><img width="10%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/amazon.svg"></code>
 <hr>
 
 <!-- Work / Research Section -->
