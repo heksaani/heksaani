@@ -4,13 +4,14 @@
 <h1 align = center>✨ I'm Heidi ✨</h1>
 <hr>
 
-I am a **`person with many interest`** currently working at the intersection of **`Biology`** 🧫 , **`Computer Science`** 💻 and **`Data Science`** 👨🏿‍💻
-
+<div align="center">
+    I am a <strong>person with many interests</strong> currently working at the intersection of <strong>Biology</strong> 🧫, <strong>Computer Science</strong> 💻 and <strong>Data Science</strong> 👨🏿‍💻
+</div>
+<br>
 <!-- **Badges**
 - website to create badge : https://shields.io/
 - very nice tutorial to create badge : https://medium.com/@therafamartins/make-your-customized-badges-in-a-few-minutes-18e75475e271
 -->
-
 <p align="center">
   <a href="https://www.linkedin.com/in/heidi-putkuri/"><img src="http://img.shields.io/badge/LinkedIn-purple?style=flat&logo=linkedin" alt="LinkedIn"></a> º
   <a href="https://heksaani.github.io/CV/"><img src="https://shields.io/badge/CV-purple" alt="CV" ></a>
