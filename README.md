@@ -41,6 +41,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/openstack/openstack-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/amazon.svg"></code>
+  <code><img width="10%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/docker.svg"></code>
 <hr>
 
 <!-- Work / Research Section -->
