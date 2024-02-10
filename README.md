@@ -24,7 +24,6 @@
 - I have a bachelor in Science (molecular biology) 🧬 with minor in computer science 💻 and mathematics 🧮
 - 🔭 I’m currently learning more about **software development** and **machine learning** 
 - 🤝 I’m looking for tech jobs related to data and/or software development 
-- 
 
 
 <hr>
