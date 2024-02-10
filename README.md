@@ -23,8 +23,8 @@
 - working part time in Folkhälsan [Eye Genetics](https://www.folkhalsan.fi/en/knowledge/research/genetics/group-turunen/) research group as bioinformatician
 - I have a bachelor in Science (molecular biology) 🧬 with minor in computer science 💻 and mathematics 🧮
 - 🔭 I’m currently learning more about **software development** and **machine learning** 
-- 🤝 I’m looking for tech related jobs related to data or software development 
-- 📫  You can connect with me directly at one of the platforms listed above ⬆️
+- 🤝 I’m looking for tech jobs related to data and/or software development 
+- 
 
 
 <hr>
