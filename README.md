@@ -19,7 +19,7 @@
 <hr>
 
 <!-- Activities/Interests Section -->
-- 🗝 Currently studying in the [Life Science Informatics master's program](https://www.helsinki.fi/en/degree-programmes/life-science-informatics-masters-programme) in the University of Helsinki
+- 🗝 Currently studying in [Life Science Informatics master's program](https://www.helsinki.fi/en/degree-programmes/life-science-informatics-masters-programme) in the University of Helsinki
 - working part time in Folkhälsan [Eye Genetics](https://www.folkhalsan.fi/en/knowledge/research/genetics/group-turunen/) research group as bioinformatician
 - I have a bachelor in Science (molecular biology) 🧬 with minor in computer science 💻 and mathematics 🧮
 - 🔭 I’m currently learning more about **software development** and **machine learning** 
