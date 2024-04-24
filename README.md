@@ -32,7 +32,6 @@
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg"></code>
-  <code><img width="7.5%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/ruby.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
