@@ -22,7 +22,7 @@
 - 🗝 Currently studying in [Life Science Informatics master's program](https://www.helsinki.fi/en/degree-programmes/life-science-informatics-masters-programme) in the University of Helsinki
 - 🧬 Working part time in Folkhälsan [Eye Genetics](https://www.folkhalsan.fi/en/knowledge/research/genetics/group-turunen/) research group as bioinformatician
 - 🧫 I have a Bachelor in Science (molecular biology) 2022 with minor in computer science 💻 and mathematics 🧮
-- 🔭 I’m currently learning more about **software development** and **machine learning** 
+- 🔭 I’m currently learning more about **software development**, **machine learning** and C++/C through school, work and hobbies
 - 🤝 I’m looking for tech jobs related to data and/or software development 
 
 
