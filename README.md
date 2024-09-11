@@ -27,21 +27,4 @@
 - 👀 Looking for tech jobs related to data and/or software development 
 
 
-<hr>
-  
-  **Selected Programming Tools**
-  
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/openstack/openstack-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/amazon.svg"></code>
-  <code><img width="10%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/docker.svg"></code>
-<hr>
-
-<!-- Work / Research Section -->
 
