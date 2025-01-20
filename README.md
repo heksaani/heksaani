@@ -26,8 +26,8 @@
 - 🔭 Learning more about **software development**, **machine learning** and **C++/C** through school, work and hobbies
 - 👀 Looking for tech jobs related but not limited to data and/or software development 
 
-
-
+<hr>
+<h1 align = center>✨Wakatime metrics✨</h1>
 <!--START_SECTION:waka-->
 
 ```rust
