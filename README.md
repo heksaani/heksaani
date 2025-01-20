@@ -29,4 +29,22 @@
 
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 27 August 2024 - To: 19 January 2025
+
+Total Time: 117 hrs 35 mins
+
+Python        69 hrs 50 mins  >>>>>>>>>>>>>>-----------   55.72 %
+Markdown      30 hrs 12 mins  >>>>>>-------------------   24.09 %
+Other         7 hrs 46 mins   >>-----------------------   06.20 %
+Docker        5 hrs 57 mins   >------------------------   04.75 %
+Text          2 hrs 47 mins   >------------------------   02.23 %
+JavaScript    1 hr 49 mins    -------------------------   01.45 %
+Git Config    1 hr 28 mins    -------------------------   01.18 %
+Bash          1 hr 21 mins    -------------------------   01.08 %
+YAML          1 hr 15 mins    -------------------------   01.00 %
+TOML          53 mins         -------------------------   00.71 %
+```
+
 <!--END_SECTION:waka-->
