@@ -19,12 +19,11 @@
 <hr>
 
 <!-- Activities/Interests Section -->
-- 🗝 Currently finishing my Master thesis in [Life Science Informatics master's program](https://www.helsinki.fi/en/degree-programmes/life-science-informatics-masters-programme)
-<!---- 🧬 Working part time in Folkhälsan [Eye Genetics](https://www.folkhalsan.fi/en/knowledge/research/genetics/group-turunen/) research group as bioinformatician -->
+- 🗝 Master of Science (2025) in Bioinformatics and Systems Medicine from University of Helsinki[Life Science Informatics master's program](https://www.helsinki.fi/en/degree-programmes/life-science-informatics-masters-programme)
+- - 🖥️ Started Engineering studies focusing on Machine learning Autumn (2024) in the University of Applied Sciences of Kajaani 
 - 🧫 I have a Bachelor in Science (molecular biology) 2022 with minors in computer science 💻 and mathematics 🧮
-- 🖥️ Started Engineering studies focusing on Machine learning Autumn (2024) in the University of Applied Sciences of Kajaani 
 - 🔭 Learning more about **software development**, **machine learning** and **C++/C** through school, work and hobbies
-- 👀 Looking for tech jobs related but not limited to data and/or software development 
+- 👀 Looking for tech jobs related but not limited to data science machine larning and software development 
 
 <hr>
 <h1 align = center>✨Wakatime metrics✨</h1>
