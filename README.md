@@ -3,6 +3,11 @@
 
 <h1 align = center>✨ I'm Heidi ✨</h1>
 <hr>
+<p align="center">
+  <a href="https://www.linkedin.com/in/heidi-putkuri/"><img src="http://img.shields.io/badge/LinkedIn-purple?style=flat&logo=linkedin" alt="LinkedIn"></a> º
+  <a href="https://heksaani.github.io/CV/"><img src="https://shields.io/badge/CV-purple" alt="CV" ></a>
+</p>
+<hr>
 
 <div align="center">
     I am a <strong>person with many interests</strong> currently learning the secrets of <strong>Data Science</strong> 💻 and <strong>Machine Learning</strong> 🧮
@@ -12,11 +17,6 @@
 - website to create badge : https://shields.io/
 - very nice tutorial to create badge : https://medium.com/@therafamartins/make-your-customized-badges-in-a-few-minutes-18e75475e271
 -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/heidi-putkuri/"><img src="http://img.shields.io/badge/LinkedIn-purple?style=flat&logo=linkedin" alt="LinkedIn"></a> º
-  <a href="https://heksaani.github.io/CV/"><img src="https://shields.io/badge/CV-purple" alt="CV" ></a>
-</p>
-<hr>
 
 <!-- Activities/Interests Section -->
 - 🗝 Master of Science (2025) in Bioinformatics and Systems Medicine from University of Helsinki [Life Science Informatics master's program](https://www.helsinki.fi/en/degree-programmes/life-science-informatics-masters-programme)
