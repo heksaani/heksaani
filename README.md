@@ -5,7 +5,7 @@
 <hr>
 
 <div align="center">
-    I am a <strong>person with many interests</strong> currently working at the intersection of <strong>Biology</strong> 🧫, <strong>Computer Science</strong> 💻 and <strong>Data Science</strong> 👨🏿‍💻
+    I am a <strong>person with many interests</strong> currently learning the secrets of <strong>Data Science</strong> 💻 and <strong>Machine Learning</strong> 🧮
 </div>
 <br>
 <!-- **Badges**
@@ -47,3 +47,8 @@ YAML          1 hr 15 mins    -------------------------   00.92 %
 ```
 
 <!--END_SECTION:waka-->
+
+## Python libraries 🐍
+
+![Pandas](https://img.shields.io/badge/Pandas-Used-blue?logo=pandas)
+
