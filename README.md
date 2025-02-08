@@ -49,6 +49,8 @@ YAML          1 hr 15 mins    -------------------------   00.92 %
 <!--END_SECTION:waka-->
 
 ## Python libraries 🐍
-
 ![Pandas](https://img.shields.io/badge/Pandas-Used-blue?logo=pandas)
+![PyTorch](https://img.shields.io/badge/PyTorch-🔥-red?logo=pytorch)
+![Plotly](https://img.shields.io/badge/Plotly-📈-blueviolet?logo=plotly)
+![FastAPI](https://img.shields.io/badge/FastAPI-🚀-green?logo=fastapi)
 
