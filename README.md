@@ -56,4 +56,7 @@ YAML          1 hr 15 mins    -------------------------   00.92 %
 ![Seaborn](https://img.shields.io/badge/Seaborn-🎨-cyan?logo=seaborn)
 ![Selenium](https://img.shields.io/badge/Selenium-🕵️‍♂️-green?logo=selenium)
 ![Telegram Bot](https://img.shields.io/badge/Telegram--Bot-📬-blue?logo=telegram)
+![PyTorch](https://img.shields.io/badge/PyTorch-🔥-red?logo=pytorch)
+![Plotly](https://img.shields.io/badge/Plotly-📈-blueviolet?logo=plotly)
+![FastAPI](https://img.shields.io/badge/FastAPI-🚀-green?logo=fastapi)
 
