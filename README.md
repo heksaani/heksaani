@@ -3,7 +3,7 @@
 
 <h1 align = center>✨ I'm Heidi ✨</h1>
 <p align="center">
-  I am a <strong>person with many interests</strong> currently learning the secrets of <strong>Data Science</strong> 💻 and <strong>Machine Learning</strong> 🧮
+  I am a <strong>person with many interests</strong> currently learning the secrets of <strong>Data Science</strong> 💻 and <strong>Machine Learning</strong> 🧮 <br>
   <a href="https://www.linkedin.com/in/heidi-putkuri/"><img src="http://img.shields.io/badge/LinkedIn-purple?style=flat&logo=linkedin" alt="LinkedIn"></a> º
   <a href="https://heksaani.github.io/CV/"><img src="https://shields.io/badge/CV-purple" alt="CV" ></a>
 </p>
