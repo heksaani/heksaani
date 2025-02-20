@@ -48,7 +48,8 @@ YAML          1 hr 15 mins    -------------------------   00.86 %
 
 <!--END_SECTION:waka-->
 
-<h1 align = center>🐍Python libraries🐍</h1>
+<h1 align="center">🐍Python libraries🐍</h1>
+
 ![Pandas](https://img.shields.io/badge/Pandas-🐼-yellow?logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-📊-blue?logo=numpy)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-🤖-orange?logo=scikitlearn)
