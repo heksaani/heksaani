@@ -9,10 +9,8 @@
 </p>
 <hr>
 
-<div align="center">
-    I am a <strong>person with many interests</strong> currently learning the secrets of <strong>Data Science</strong> 💻 and <strong>Machine Learning</strong> 🧮
-</div>
-<br>
+I am a <strong>person with many interests</strong> currently learning the secrets of <strong>Data Science</strong> 💻 and <strong>Machine Learning</strong> 🧮
+
 <!-- **Badges**
 - website to create badge : https://shields.io/
 - very nice tutorial to create badge : https://medium.com/@therafamartins/make-your-customized-badges-in-a-few-minutes-18e75475e271
