@@ -15,7 +15,7 @@
 -->
 
 <!-- Activities/Interests Section -->
-- 🗝 Master of Science (2025) in Bioinformatics and Systems Medicine [Life Science Informatics master's program from University of Helsinki](https://www.helsinki.fi/en/degree-programmes/life-science-informatics-masters-programme)
+- 🗝 Master of Science (2025) in [Life Science Informatics master's program from University of Helsinki](https://www.helsinki.fi/en/degree-programmes/life-science-informatics-masters-programme)
 - 🖥️ Current Engineering studies focusing on Machine learning in the University of Applied Sciences of Kajaani 
 - 🧫 I have a Bachelor in Science (molecular biology) 2022 with minors in computer science 💻 and mathematics 🧮
 - 🔭 Learning more about **software development**, **machine learning** and **C++/C** through school, work and hobbies
