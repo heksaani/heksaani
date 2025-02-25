@@ -41,6 +41,9 @@ Bash          1 hr 42 mins    -------------------------   01.11 %
 Git Config    1 hr 33 mins    -------------------------   01.00 %
 YAML          1 hr 15 mins    -------------------------   00.81 %
 ```
+<h1 align="center"> Programming Languages</h1>
+
+
 
 <!--END_SECTION:waka-->
 
