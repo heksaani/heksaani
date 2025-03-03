@@ -55,5 +55,6 @@ YAML          1 hr 15 mins    -------------------------   00.76 %
 ![Telegram Bot](https://img.shields.io/badge/Telegram--Bot-📬-blue?logo=telegram)
 ![PyTorch](https://img.shields.io/badge/PyTorch-🔥-red?logo=pytorch)
 ![Plotly](https://img.shields.io/badge/Plotly-📈-blueviolet?logo=plotly)
+![MLflow](https://img.shields.io/badge/MLflow-%F0%9F%94%A5-orange?logo=mlflow)
 ![FastAPI](https://img.shields.io/badge/FastAPI-🚀-green?logo=fastapi)
 
