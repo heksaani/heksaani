@@ -58,5 +58,5 @@ YAML          1 hr 35 mins    -------------------------   00.85 %
 ![MLflow](https://img.shields.io/badge/MLflow-%F0%9F%94%A5-orange?logo=mlflow)
 ![FastAPI](https://img.shields.io/badge/FastAPI-🚀-green?logo=fastapi)
 ![Deepchek](https://img.shields.io/badge/Deepchek-🤖-blue?logo=python)
-
+![Pydantic](https://img.shields.io/badge/Pydantic-⭐-blue?logo=python)
 
