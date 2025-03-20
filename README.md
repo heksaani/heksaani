@@ -21,8 +21,9 @@
 - 🔭 Learning more about **software development**, **machine learning** and **C++/C** through school, work and hobbies
 - 👀 Looking for tech jobs related but not limited to data science, machine larning and software development 
 
-<h1 align = center>✨Currently working on✨</h1>
-[Project course](https://gitlab.dclabra.fi/heksaani/projekti1)
+<p align="center">
+  <a href="https://gitlab.dclabra.fi/heksaani/projekti1">Project course</a>
+</p>
 
 <hr>
 <h1 align = center>✨Wakatime metrics✨</h1>
