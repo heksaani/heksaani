@@ -24,9 +24,13 @@
 <h1 align = center>✨Currently working on✨</h1>
 
 <p align="center">
-  <a href="https://gitlab.dclabra.fi/heksaani/projekti1">Project course</a>
+  <a href="https://gitlab.dclabra.fi/heksaani/projekti1">Project course gitlab</a>
 </p>
 
+<p align="center">
+  <a href="[https://gitlab.dclabra.fi/heksaani/projekti1](https://pages.dclabra.fi/projekti1-cf2913/
+)">Project course page</a>
+</p>
 <hr>
 <h1 align = center>✨Wakatime metrics✨</h1>
 <!--START_SECTION:waka-->
