@@ -36,19 +36,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 27 August 2024 - To: 27 April 2025
+From: 27 August 2024 - To: 28 April 2025
 
-Total Time: 242 hrs 8 mins
+Total Time: 243 hrs 3 mins
 
-Python          156 hrs 25 mins >>>>>>>>>>>>>>>>---------   62.23 %
-Markdown        42 hrs 13 mins  >>>>---------------------   16.80 %
-Other           9 hrs 14 mins   >------------------------   03.68 %
-JavaScript      9 hrs 1 min     >------------------------   03.59 %
-Docker          8 hrs 7 mins    >------------------------   03.23 %
-MATLAB          5 hrs 18 mins   >------------------------   02.11 %
+Python          156 hrs 56 mins >>>>>>>>>>>>>>>>---------   62.20 %
+Markdown        42 hrs 37 mins  >>>>---------------------   16.90 %
+Other           9 hrs 14 mins   >------------------------   03.66 %
+JavaScript      9 hrs 1 min     >------------------------   03.58 %
+Docker          8 hrs 7 mins    >------------------------   03.22 %
+MATLAB          5 hrs 18 mins   >------------------------   02.10 %
 YAML            4 hrs 54 mins   -------------------------   01.95 %
-Text            4 hrs 2 mins    -------------------------   01.61 %
-Bash            3 hrs 6 mins    -------------------------   01.24 %
+Text            4 hrs 2 mins    -------------------------   01.60 %
+Bash            3 hrs 6 mins    -------------------------   01.23 %
 Git Config      2 hrs 11 mins   -------------------------   00.87 %
 ```
 
