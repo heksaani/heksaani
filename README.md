@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <a href="https://pages.dclabra.fi/projekti1-cf2913/">Project course page</a>
+  <a href="https://pages.dclabra.fi/projekti1-cf2913/">Project page</a>
 </p>
 
 <hr>
