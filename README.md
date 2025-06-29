@@ -23,10 +23,11 @@
 
 <!-- Activities/Interests Section -->
 - 🗝 Master of Science in Bioinformatics (2025) in [Life Science Informatics from University of Helsinki](https://www.helsinki.fi/en/degree-programmes/life-science-informatics-masters-programme)
-- 🖥️ Current Engineering studies focusing on [Machine learning in the University of Applied Sciences of Kajaani](https://kamk.fi/koulutukset/tieto-ja-viestintatekniikan-insinoori-datasta-tekoalyyn-paakaupunkiseutu-monimuoto/)
+- Working as Bioinformatician at [Finnish institute of Health and welfare](https://thl.fi/en/main-page)
+- 🖥️ Part time Engineering studies focusing on [Machine learning in the University of Applied Sciences of Kajaani](https://kamk.fi/koulutukset/tieto-ja-viestintatekniikan-insinoori-datasta-tekoalyyn-paakaupunkiseutu-monimuoto/)
 - 🧫 I have a Bachelor in Science (molecular biology) 2022 with minors in computer science 💻 and mathematics 🧮
 - 🔭 Learning more about **software development**, **machine learning** and **C++/C** through school, work and hobbies
-- 👀 Looking for tech jobs related but not limited to data science, machine larning and software development 
+
 
 <hr>
 <h1 align = center>✨Wakatime metrics✨</h1>
