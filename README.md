@@ -11,7 +11,7 @@
   </a>
 </p>
 <p align="center">
-  I am a <strong>person with many interests</strong> currently learning the secrets of <strong>Data Science</strong> 💻 and <strong>Machine Learning</strong> 🧮 <br>
+  I am a <strong>person with many interests</strong>
 
 </p>
 <!-- **Badges** <img src="https://shields.io/badge/CV-purple" alt="CV" ></a> -->
