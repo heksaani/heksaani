@@ -3,14 +3,11 @@
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/heidi-putkuri/">
-    <img src="http://img.shields.io/badge/LinkedIn-purple?style=flat&logo=linkedin" alt="LinkedIn">
-  </a>
-</p>
-<p align="center">
+  <a href="https://www.linkedin.com/in/heidi-putkuri/"><img src="https://img.shields.io/badge/LinkedIn-purple?style=flat&logo=linkedin" alt="LinkedIn"></a> <a href="https://heksaani.github.io/new_cv/"><img src="https://img.shields.io/badge/cv-pink?style=flat&logo=cv" alt="CV"></a>
+  <br>
   I am a 𝐩𝐞𝐫𝐬𝐨𝐧 𝐰𝐢𝐭𝐡 𝐦𝐚𝐧𝐲 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬
-
 </p>
+
 
 <!-- **Badges**
 - website to create badge : https://shields.io/
