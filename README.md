@@ -50,19 +50,4 @@ MATLAB          5 hrs 18 mins   -------------------------   01.26 %
 
 <!--END_SECTION:waka-->
 
-<h1 align="center">🐍Python libraries🐍</h1>
-
-![Pandas](https://img.shields.io/badge/Pandas-yellow?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?logo=scikitlearn)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-blueviolet?logo=matplotlib)
-![Seaborn](https://img.shields.io/badge/Seaborn-cyan?logo=seaborn)
-![Selenium](https://img.shields.io/badge/Selenium-green?logo=selenium)
-![Telegram Bot](https://img.shields.io/badge/Telegram--Bot-blue?logo=telegram)
-![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch)
-![Plotly](https://img.shields.io/badge/Plotly-blueviolet?logo=plotly)
-![MLflow](https://img.shields.io/badge/MLflow-orange?logo=mlflow)
-![FastAPI](https://img.shields.io/badge/FastAPI-green?logo=fastapi)
-![Deepchek](https://img.shields.io/badge/Deepchek-blue?logo=python)
-![Pydantic](https://img.shields.io/badge/Pydantic-blue?logo=python)
 
