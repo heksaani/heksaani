@@ -29,14 +29,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 27 August 2024 - To: 06 January 2026
+From: 27 August 2024 - To: 07 January 2026
 
-Total Time: 489 hrs 30 mins
+Total Time: 489 hrs 50 mins
 
-Python          289 hrs 24 mins >>>>>>>>>>>>>>-----------   56.25 %
-Markdown        86 hrs 31 mins  >>>>---------------------   16.82 %
+Python          289 hrs 30 mins >>>>>>>>>>>>>>-----------   56.23 %
+Markdown        86 hrs 45 mins  >>>>---------------------   16.85 %
 Nextflow        33 hrs 57 mins  >>-----------------------   06.60 %
-Other           24 hrs 59 mins  >------------------------   04.86 %
+Other           24 hrs 59 mins  >------------------------   04.85 %
 JavaScript      12 hrs 58 mins  >------------------------   02.52 %
 Docker          10 hrs 30 mins  >------------------------   02.04 %
 Bash            8 hrs 13 mins   -------------------------   01.60 %
