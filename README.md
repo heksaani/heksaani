@@ -20,7 +20,7 @@
 - 🧫 I have a Bachelor in Science (molecular biology) 2022 with minors in computer science 💻 and mathematics 🧮
 - 🔭 In my free time, I’m currently curious about: <br>
   📈 Finance – Still a newbie on this field. <br>
-  💻 Quantumn computing - Physics and computer science !! 
+  💻 Quantumn computing - Physics and computer science !! <br>
   🧶 Knitting – enjoying the meditative rhythm of stitches and handmade creativity. <br>
   🪶 Poetry – playing with words, emotions, and the beauty of expression. <br>
 
