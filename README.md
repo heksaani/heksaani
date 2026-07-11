@@ -19,8 +19,9 @@
 - 🦾 Part time Engineering studies focusing on [Machine learning in the University of Applied Sciences of Kajaani](https://kamk.fi/koulutukset/tieto-ja-viestintatekniikan-insinoori-datasta-tekoalyyn-paakaupunkiseutu-monimuoto/)
 - 🧫 I have a Bachelor in Science (molecular biology) 2022 with minors in computer science 💻 and mathematics 🧮
 - 🔭 In my free time, I’m currently curious about: <br>
-  📈 Finance – Still a newbie on this field. <br>
-  💻 Quantumn computing - Physics and computer science !! <br>
+  🏃 Running - My goal is to run 10 000km (link in coming to cite)
+  📈 Finance & Investing – Still a newbie on this field. <br>
+  💻 Quantumn computing - Physics and computer science combined !! <br>
   🧶 Knitting – enjoying the meditative rhythm of stitches and handmade creativity. <br>
   🪶 Poetry – playing with words, emotions, and the beauty of expression. <br>
 
