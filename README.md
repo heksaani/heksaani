@@ -18,6 +18,8 @@
 - 🖥️ Working as Bioinformatician at [Finnish institute of Health and welfare](https://thl.fi/en/main-page)
 - 🦾 Part time Engineering studies focusing on [Machine learning in the University of Applied Sciences of Kajaani](https://kamk.fi/koulutukset/tieto-ja-viestintatekniikan-insinoori-datasta-tekoalyyn-paakaupunkiseutu-monimuoto/)
 - 🧫 I have a Bachelor in Science (molecular biology) 2022 with minors in computer science 💻 and mathematics 🧮
+- Currently working on:
+  Installing Linux to my old laptop and setting up server for my projects 
 - 🔭 In my free time, I’m currently curious about: <br>
   🏃 Running - My goal is to run 10 000km (link in coming to cite) <br>
   📈 Finance & Investing – Still a newbie on this field. <br>
